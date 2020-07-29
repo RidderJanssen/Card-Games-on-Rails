@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.20'
 
 gem 'pg'
-gem 'simple_form'
+# gem 'simple_form'
 gem 'jquery-rails'
 gem 'sass-rails',   '~> 3.2.3'
 gem 'coffee-rails', '~> 3.2.1'
